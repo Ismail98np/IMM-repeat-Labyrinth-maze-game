@@ -1,0 +1,15 @@
+Snake Model: https://sketchfab.com/3d-models/stuffed-snake-rigged-6480e54a53a74657b877a3ea5f9fa23f
+Ingame Model Name: Snake.fbx
+Changed color from Blue to Green
+
+Cobblestone Texture: https://www.texturecan.com/details/273/
+Ingame Model Name: ground_0036_color_4k.jpg
+Alpha Map for the texture name: ground_0036_normal_directx_4k.jpg
+
+Sandwich Model: https://sketchfab.com/3d-models/low-poly-tf2-sandvich-e6ad659e1b8346799180a7be9bda5795
+Ingame Model Name: Low Poly Tf2 Sandvich.fbx
+Put Key inside the sandwich
+
+Key Model: https://sketchfab.com/3d-models/low-poly-key-75088b575fad41468970aee24e515921
+Ingame Model Name: key.fbx
+Colored Metallic Gold
