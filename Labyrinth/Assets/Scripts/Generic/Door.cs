@@ -1,23 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-public class Door : MonoBehaviour
-{
-    bool open;
-
-    public GameObject wonScreen;
-
-    private void Update()
-    {
-        open = GameController.i.allKeysCollected;
-    }
-
-    private void OnTriggerEnter(Collider other)
-    {
-        if (open)
-        {
-            wonScreen.SetActive(true);
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:9be3906cf6e34d9cc69a0bca66221725b8d9a5dfcbec0c95ded9f2a4bb6c785e
+size 654

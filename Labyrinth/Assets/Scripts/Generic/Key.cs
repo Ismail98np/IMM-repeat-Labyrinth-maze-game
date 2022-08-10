@@ -1,19 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-public class Key : MonoBehaviour
-{
-    BoxCollider boxCollider;
-
-    private void Start()
-    {
-        boxCollider = GetComponent<BoxCollider>();
-    }
-
-    private void OnTriggerEnter(Collider other)
-    {
-        GameController.i.UpdateKeys();
-        gameObject.SetActive(false);
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc1a585903470e5bb0f9562d9b7c5d38b9e6c4e4b354e41938cffd0ed8bbcc9b
+size 464
